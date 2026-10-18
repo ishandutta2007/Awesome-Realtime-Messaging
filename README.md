@@ -1,6 +1,6 @@
 # Awesome-Realtime-Messaging
 
-# Top Realtime Messaging Tools Ecosystem
+## Top Realtime Messaging Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on WebSocket Pub/Sub, Presence Tracking & Postgres Change Data Capture*  
